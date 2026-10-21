@@ -1,0 +1,9 @@
+name: lms_layered_architecture_example
+description: A simple LMS example using Model, Service and Test layers.
+publish_to: "none"
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dev_dependencies:
+  test: ^1.24.0
